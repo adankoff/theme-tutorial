@@ -1,0 +1,12 @@
+body {
+	background-color: #f1f1f1;
+}
+
+.container {
+	background-color: #ffffff;
+}
+
+.navbar-brand {
+	background: url(../img/logo.png) center center no-repeat;
+	text-indent: -9999px;
+}
